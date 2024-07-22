@@ -141,7 +141,6 @@ Make sure to create a .env file in the directory and add the following essential
 
 ## Additional Resources
 
-[Medicine API Live Deployment](https://) **Medicine API**
+[Medicine API Live Deployment](https://bhagirathmedicinebackend-api.onrender.com) **Medicine API**
 
 [Postman Documentation](https://) **Postman API Documentation**
-
